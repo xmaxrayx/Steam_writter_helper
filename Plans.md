@@ -12,7 +12,7 @@ we are planning to make writing on the steam app more easy and fun to write in `
 
 - see this Flow_charts
 
-<img src="C:\Users\max\Documents\GitHub\Steam_writter_helper\AHK steam writer helper3.jpg" alt="AHK steam writer helper3" style="zoom: 25%;" />
+<img src="./assets/AHK steam writer helper3.jpg" style="zoom:25%;" />
 
 
 
