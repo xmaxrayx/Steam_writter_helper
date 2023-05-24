@@ -1,6 +1,10 @@
+
+> **Note**
+> this project meved to @unbreakable-ray
+>  
+>   https://github.com/Unbreakable-ray
+
 # Hotkeys:
-
-
 
 - `Ctrl + Q`  to do quotes.
 
