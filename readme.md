@@ -3,6 +3,8 @@
 > this project meved to @unbreakable-ray
 >  
 >   https://github.com/Unbreakable-ray
+>   
+>   https://github.com/Unbreakable-ray/steam_writing_assistant
 
 # Hotkeys:
 
